@@ -1,6 +1,6 @@
 [
   {"lokasi":"Bandung Electronic Center", "parkirmotor":"Motor Rp3000 per jam", "parkirmobil":"Mobil Rp5000 per jam", "gambarId":"logo_bec"},
   {"lokasi":"Gramedia Merdeka Bandung", "parkirmotor":"Motor Rp1500 per jam", "parkirmobil":"Mobil Rp3000 per jam", "gambarId":"logo_gramedia"},
-  {"lokasi":"Merdeka Arcade Factory Outlet", "parkirmotor":"Motor Rp2000 per jam", "parkirmobil":"Mobil Rp5000 per jam", "gambarId":"logo_factory_outlet"}
+  {"lokasi":"Merdeka Arcade Factory Outlet", "parkirmotor":"Motor Rp2000 per jam", "parkirmobil":"Mobil Rp5000 per jam", "gambarId":"logo_factory_outlet"},
   {"lokasi":"Bandung Indah Plaza", "parkirmotor":"Motor Rp1500 per jam", "parkirmobil":"Mobil Rp3000 per jam", "gambarId":"logo_bip"}
 ]
